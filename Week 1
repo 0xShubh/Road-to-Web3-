@@ -60,5 +60,5 @@ contract PLACES is ERC721, ERC721Enumerable, ERC721URIStorage {
     }
 }
 
-Note - Deployed Contract Address : 0x30919fce59a167a49d3F0C79E37BF22f35e88164
+Note - Deployed Contract Address : 0xd810829bd060E8dBB1144b5dd87bc87e647013bc
 
